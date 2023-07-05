@@ -1,0 +1,290 @@
+#EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony-AlvesOtt",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony-AlvesOtt",Sony PIX HD
+https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies",Sony MAX2
+http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/483/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Sony Liv",SONY MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Liv",SONY MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv",SONY MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony-AlvesOtt",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony-AlvesOtt",Sony SAB HD
+https://dai.google.com/linear/hls/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
+http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/154/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD
+http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/471/master.m3u8
+
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
+http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/474/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 ,Colors Cineplex HD
+http://103.141.2.37:25461/web/web/547
+#EXTINF:-1 ,Colors
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 ,&PICTURES
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold SD
+http://103.141.2.37:25461/web/web/555
+#EXTINF:-1 ,Star Gold-2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold Select HD
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 ,Zee tv
+http://180.178.188.152:8000/play/a00b
+#EXTINF:-1 ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 ,&PRIVE HD-Rs 19
+http://103.113.103.249:18001/play/a01e/index.m3u8
+#EXTINF:-1 ,&flix HD-Rs 19
+http://103.113.103.249:18001/play/a01j/index.m3u8
+#EXTINF:-1 ,&pictures HD -Rs 19
+http://103.113.103.249:18001/play/a018/index.m3u8
+#EXTINF:-1 ,24 News HD
+http://103.113.103.249:18001/play/a02p/index.m3u8
+#EXTINF:-1 ,9XM
+http://103.113.103.249:18001/play/a02k/index.m3u8
+#EXTINF:-1 ,ANIMAL PLAN HD-Rs 3
+http://103.113.103.249:18001/play/a012/index.m3u8
+#EXTINF:-1 ,ARYMusik
+http://103.113.103.249:18001/play/a01q/index.m3u8
+#EXTINF:-1 ,ARYNewsAsia
+http://103.113.103.249:18001/play/a01r/index.m3u8
+#EXTINF:-1 ,ARYQTV
+http://103.113.103.249:18001/play/a01p/index.m3u8
+#EXTINF:-1 ,ARYZindagi
+http://103.113.103.249:18001/play/a01n/index.m3u8
+#EXTINF:-1 ,B4U KADAK
+http://103.113.103.249:18001/play/a02b/index.m3u8
+#EXTINF:-1 ,B4U Music
+http://103.113.103.249:18001/play/a02o/index.m3u8
+#EXTINF:-1 ,Big Magic
+http://103.113.103.249:18001/play/a02a/index.m3u8
+#EXTINF:-1 ,CITY
+http://103.113.103.249:18001/play/a02w/index.m3u8
+#EXTINF:-1 ,CITY
+http://103.113.103.249:18001/play/a02v/index.m3u8
+#EXTINF:-1 ,CITY-21
+http://103.113.103.249:18001/play/a02u/index.m3u8
+#EXTINF:-1 ,CITY-41
+http://103.113.103.249:18001/play/a02r/index.m3u8
+#EXTINF:-1 ,CITY-42 HD
+http://103.113.103.249:18001/play/a02q/index.m3u8
+#EXTINF:-1 ,Colors HD-Rs 19
+http://103.113.103.249:18001/play/a01i/index.m3u8
+#EXTINF:-1 ,Dangal 2
+http://103.113.103.249:18001/play/a026/index.m3u8
+#EXTINF:-1 ,Dhinchaak 2
+http://103.113.103.249:18001/play/a02g/index.m3u8
+#EXTINF:-1 ,Discovery HD-Rs6
+http://103.113.103.249:18001/play/a00z/index.m3u8
+#EXTINF:-1 ,Disney Chan-Rs 8
+http://103.113.103.249:18001/play/a00l/index.m3u8
+#EXTINF:-1 ,Disney Jr.-Rs 4
+http://103.113.103.249:18001/play/a00o/index.m3u8
+#EXTINF:-1 ,EUROSPORT HD-Rs 6
+http://103.113.103.249:18001/play/a01l/index.m3u8
+#EXTINF:-1 ,EXP ENTERTAINMENT
+http://103.113.103.249:18001/play/a03a/index.m3u8
+#EXTINF:-1 ,EXP MUSIC
+http://103.113.103.249:18001/play/a039/index.m3u8
+#EXTINF:-1 ,EXP NEWS
+http://103.113.103.249:18001/play/a03b/index.m3u8
+#EXTINF:-1 ,Enter10
+http://103.113.103.249:18001/play/a02f/index.m3u8
+#EXTINF:-1 ,Geo News
+http://103.113.103.249:18001/play/a036/index.m3u8
+#EXTINF:-1 ,Geo Tez
+http://103.113.103.249:18001/play/a037/index.m3u8
+#EXTINF:-1 ,HISTORY TV18 HD-Rs 7
+http://103.113.103.249:18001/play/a014/index.m3u8
+#EXTINF:-1 ,HUM NEWS HD
+http://103.113.103.249:18001/play/a032/index.m3u8
+#EXTINF:-1 ,HUM PASHTO-1
+http://103.113.103.249:18001/play/a035/index.m3u8
+#EXTINF:-1 ,HUM SITARAY
+http://103.113.103.249:18001/play/a034/index.m3u8
+#EXTINF:-1 ,KAABA Live
+http://103.113.103.249:18001/play/a03i/index.m3u8
+#EXTINF:-1 ,MASALA TV
+http://103.113.103.249:18001/play/a033/index.m3u8
+#EXTINF:-1 ,MAX HD -Rs 17
+http://103.113.103.249:18001/play/a00b/index.m3u8
+#EXTINF:-1 ,MN+ HD-Rs 10
+http://103.113.103.249:18001/play/a00v/index.m3u8
+#EXTINF:-1 ,MTV Beats
+http://103.113.103.249:18001/play/a02m/index.m3u8
+#EXTINF:-1 ,Manoranjan Movies
+http://103.113.103.249:18001/play/a029/index.m3u8
+#EXTINF:-1 ,Manoranjan TV
+http://103.113.103.249:18001/play/a02c/index.m3u8
+#EXTINF:-1 ,Masti
+http://103.113.103.249:18001/play/a02n/index.m3u8
+#EXTINF:-1 ,Movie Plus
+http://103.113.103.249:18001/play/a028/index.m3u8
+#EXTINF:-1 ,SONY•SAB HD
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 ,STAR•BHARAT
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 ,SONY•MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 ,ZEE•ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,SONY•MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,Colors•Cineplex HD
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 ,MBC Bollywood HD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 ,JAYA HD
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+#EXTINF:-1 ,I IPTV [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 ,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 ,NAT Geo Wild HD-Rs 5
+http://103.113.103.249:18001/play/a00c/index.m3u8
+#EXTINF:-1 ,NAT GEO
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://opplex.tv:8080/live/1234567890/1234567890/66166.ts
+#EXTINF:-1 ,National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,79.Discovery Investigation
+http://168.205.87.198:8555/live/adriana/123456/36.m3u8
+#EXTINF:-1 ,Hindi TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 ,MEEM TV
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Law and Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 ,COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 ,SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+#EXTINF:-1 ,UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+
+
+#EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="VOD Movies (EN)",Pluto TV Spotlight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="VOD Movies (EN)",Pluto TV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="VOD Movies (EN)",Pluto TV Comedy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="VOD Movies (EN)",Pluto TV Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="VOD Movies (EN)",Pluto TV Fantastic
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="VOD Movies (EN)",Pluto TV Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="VOD Movies (EN)",Pluto TV Crime Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="VOD Movies (EN)",Pluto TV Thrillers
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="VOD Movies (EN)",Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="VOD Movies (EN)",Pluto TV Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Black Cinema" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="VOD Movies (EN)",Black Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Staff Picks" tvg-logo="https://i.imgur.com/DFDHAT8.png" group-title="VOD Movies (EN)",Pluto TV Staff Picks
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Documentaries" tvg-logo="https://i.imgur.com/Mr4ZsNZ.png" group-title="VOD Movies (EN)",Pluto TV Documentaries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="VOD Movies (EN)",90s Throwback
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://i.imgur.com/0FaLAhK.png" group-title="VOD Movies (EN)",80s Rewind
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="VOD Movies (EN)",70s Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="VOD Movies (EN)",Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Westerns" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="VOD Movies (EN)",Pluto TV Westerns
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="VOD Movies (EN)",Classic Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Cult Films" tvg-logo="https://i.imgur.com/kD3SkoC.png" group-title="VOD Movies (EN)",Pluto TV Cult Films
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Flicks of Fury" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="VOD Movies (EN)",Flicks of Fury
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="The Asylum" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="VOD Movies (EN)",The Asylum
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?
+
+
+#EXTINF:-1 tvg-name="BBC World News Ⓢ" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK",BBC World News Ⓢ
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://i.imgur.com/RYgSSHl.png" group-title="UK",BBC World Service
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="USA",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="USA",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="General",Dubai One (1080p)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="General",Dubai TV (576p)
+http://210.210.155.37/uq2663/h/h152/index2.m3u8
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="Classic",Dubai Zaman (1080p) [Not 24/7]
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/DLe7ZuM.png" group-title="General",Noor Dubai (576p)
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="General",Sama Dubai (1080p)
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralIndia.in" tvg-logo="https://i.imgur.com/g0caQa2.png" group-title="Comedy",Comedy Central India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
